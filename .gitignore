@@ -102,3 +102,7 @@ ENV/
 *.iml
 out
 gen
+
+##Own ignore rules
+*.pdf
+*.PDF
